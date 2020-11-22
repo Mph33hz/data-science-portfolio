@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Mpho Mokhokane</title>
-    <link>https://github.com/Mph33hz/data-science-portfolio/post/</link>
+    <link>post/</link>
     <description>Recent content in Projects on Mpho Mokhokane</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://github.com/Mph33hz/data-science-portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2</title>
-      <link>https://github.com/Mph33hz/data-science-portfolio/post/project-2/</link>
+      <link>post/project-2/</link>
       <pubDate>Sat, 21 Nov 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://github.com/Mph33hz/data-science-portfolio/post/project-2/</guid>
+
+      <guid>post/project-2/</guid>
       <description>Some text and images about project 2</description>
     </item>
-    
+
     <item>
       <title>Project Genesis</title>
-      <link>https://github.com/Mph33hz/data-science-portfolio/post/project-1/</link>
+      <link>post/project-1/</link>
       <pubDate>Sat, 21 Nov 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://github.com/Mph33hz/data-science-portfolio/post/project-1/</guid>
+
+      <guid>post/project-1/</guid>
       <description>Some text and images here</description>
     </item>
-    
+
   </channel>
 </rss>
